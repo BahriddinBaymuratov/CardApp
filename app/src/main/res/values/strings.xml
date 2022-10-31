@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CardApiApp</string>
+    <string name="cards">Cards</string>
+    <string name="add_new_card">Add New Card</string>
+    <string name="your_c">Your card number</string>
+    <string name="visa">Visa</string>
+    <string name="number">4875 4542 0033 1477</string>
+    <string name="card_holder">CARD HOLDER</string>
+    <string name="expires">EXPIRES</string>
+    <string name="math">Matthias Manhoffen</string>
+    <string name="_08_21">08/21</string>
+    <string name="expiration_date">Expiration date</string>
+    <string name="cvv">CVV</string>
+    <string name="card_holder_name">Card Holder Name</string>
+    <string name="add_new">Add New Card</string>
+    <string name="card">Card</string>
+    <string name="updatee">Update</string>
+</resources>
